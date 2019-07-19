@@ -34,6 +34,7 @@ def Dot(a, center, angle):
 
     return new_center
 
+
 def Centers():
 
     hcen = []
